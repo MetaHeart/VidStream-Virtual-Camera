@@ -1,0 +1,6 @@
+{
+  "name": "CamForge Studio — Cámara Virtual para Windows",
+  "description": "Estudio de cámara virtual para Windows que convierte imágenes y videos de tu PC en una señal de cámara en vivo con control de encuadre, ajustes ópticos, Picture-in-Picture y conector DirectShow.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
